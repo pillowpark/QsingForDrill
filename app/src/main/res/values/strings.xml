@@ -4,5 +4,8 @@
     <string name="app_name">Qsing</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="server_path">http://a33security.iptime.org:60100/</string>
+    <string name="error">값 없음.</string>
+    <string name="yes">네버튼</string>
 
 </resources>
